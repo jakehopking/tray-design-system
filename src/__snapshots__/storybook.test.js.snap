@@ -2,7 +2,7 @@
 
 exports[`Storyshots Atoms|Badge default 1`] = `
 <span
-  className="sc-AxjAm cpaoPG"
+  className="sc-AxjAm cdoYt"
 >
   Badge
 </span>
@@ -10,7 +10,7 @@ exports[`Storyshots Atoms|Badge default 1`] = `
 
 exports[`Storyshots Atoms|Badge greyscale 1`] = `
 <span
-  className="sc-AxjAm fFPHhL"
+  className="sc-AxjAm ewHbjk"
 >
   Badge
 </span>
@@ -18,7 +18,7 @@ exports[`Storyshots Atoms|Badge greyscale 1`] = `
 
 exports[`Storyshots Atoms|Badge reverse 1`] = `
 <span
-  className="sc-AxjAm lonfMp"
+  className="sc-AxjAm gYmokW"
 >
   Badge
 </span>
@@ -26,7 +26,7 @@ exports[`Storyshots Atoms|Badge reverse 1`] = `
 
 exports[`Storyshots Atoms|Badge secondary 1`] = `
 <span
-  className="sc-AxjAm jDQmp"
+  className="sc-AxjAm dVHAGW"
 >
   Badge
 </span>
@@ -34,7 +34,7 @@ exports[`Storyshots Atoms|Badge secondary 1`] = `
 
 exports[`Storyshots Atoms|Button action 1`] = `
 <button
-  className="sc-AxhCb jRpgrs"
+  className="sc-AxhCb grIXLI"
   height={40}
   onClick={[Function]}
   type="button"
@@ -45,7 +45,7 @@ exports[`Storyshots Atoms|Button action 1`] = `
 
 exports[`Storyshots Atoms|Button danger 1`] = `
 <button
-  className="sc-AxhCb gwIjHG"
+  className="sc-AxhCb dZxmSe"
   height={40}
   onClick={[Function]}
   type="button"
@@ -56,7 +56,7 @@ exports[`Storyshots Atoms|Button danger 1`] = `
 
 exports[`Storyshots Atoms|Button default 1`] = `
 <button
-  className="sc-AxhCb jRpgrs"
+  className="sc-AxhCb grIXLI"
   height={40}
   onClick={[Function]}
   type="button"
@@ -67,7 +67,7 @@ exports[`Storyshots Atoms|Button default 1`] = `
 
 exports[`Storyshots Atoms|Button disabled 1`] = `
 <button
-  className="sc-AxhCb hYPwjD"
+  className="sc-AxhCb iNfcSr"
   disabled={true}
   height={40}
   onClick={[Function]}
@@ -79,7 +79,7 @@ exports[`Storyshots Atoms|Button disabled 1`] = `
 
 exports[`Storyshots Atoms|Button height 1`] = `
 <button
-  className="sc-AxhCb eSaBhP"
+  className="sc-AxhCb kocySL"
   height={80}
   onClick={[Function]}
   type="button"
@@ -90,7 +90,7 @@ exports[`Storyshots Atoms|Button height 1`] = `
 
 exports[`Storyshots Atoms|Button link 1`] = `
 <a
-  className="sc-AxiKw cPwHdo"
+  className="sc-AxiKw ibSzVo"
   height={40}
   href="https://tray.io"
 >
@@ -100,7 +100,7 @@ exports[`Storyshots Atoms|Button link 1`] = `
 
 exports[`Storyshots Atoms|Button reverse 1`] = `
 <button
-  className="sc-AxhCb jvEMqz"
+  className="sc-AxhCb fLPosH"
   height={40}
   onClick={[Function]}
   type="button"
@@ -111,7 +111,7 @@ exports[`Storyshots Atoms|Button reverse 1`] = `
 
 exports[`Storyshots Atoms|Button secondary 1`] = `
 <button
-  className="sc-AxhCb cwcZyX"
+  className="sc-AxhCb jqWxAz"
   height={40}
   onClick={[Function]}
   type="button"
@@ -122,7 +122,7 @@ exports[`Storyshots Atoms|Button secondary 1`] = `
 
 exports[`Storyshots Atoms|Button transparent 1`] = `
 <button
-  className="sc-AxhCb hrcAcP"
+  className="sc-AxhCb bhwrRv"
   height={40}
   onClick={[Function]}
   type="button"
@@ -133,7 +133,7 @@ exports[`Storyshots Atoms|Button transparent 1`] = `
 
 exports[`Storyshots Atoms|Heading default 1`] = `
 <h1
-  className="sc-AxhUy eGYWnN"
+  className="sc-AxhUy ffJIsg"
 >
   Title text
 </h1>
@@ -141,7 +141,7 @@ exports[`Storyshots Atoms|Heading default 1`] = `
 
 exports[`Storyshots Atoms|Heading level 2 1`] = `
 <h2
-  className="sc-AxhUy glAJhY"
+  className="sc-AxhUy goodIZ"
 >
   Title text
 </h2>
@@ -149,7 +149,7 @@ exports[`Storyshots Atoms|Heading level 2 1`] = `
 
 exports[`Storyshots Atoms|Heading level 3 1`] = `
 <h3
-  className="sc-AxhUy fzChsP"
+  className="sc-AxhUy fqYRvq"
 >
   Title text
 </h3>
@@ -157,7 +157,7 @@ exports[`Storyshots Atoms|Heading level 3 1`] = `
 
 exports[`Storyshots Atoms|Heading secondary 1`] = `
 <h1
-  className="sc-AxhUy gpOnrb"
+  className="sc-AxhUy hNjUvC"
 >
   Title text
 </h1>
@@ -165,7 +165,7 @@ exports[`Storyshots Atoms|Heading secondary 1`] = `
 
 exports[`Storyshots Organisms|Header Authentication 1`] = `
 <div
-  className="sc-AxgMl lkoldl"
+  className="sc-AxgMl hrOXid"
 >
   <h2
     className="sc-AxhUy kqAuAC"
@@ -173,7 +173,7 @@ exports[`Storyshots Organisms|Header Authentication 1`] = `
     Authentications
   </h2>
   <button
-    className="sc-AxhCb jRpgrs"
+    className="sc-AxhCb grIXLI"
     height={40}
     onClick={[Function]}
     type="button"
@@ -185,7 +185,7 @@ exports[`Storyshots Organisms|Header Authentication 1`] = `
 
 exports[`Storyshots Organisms|Header Dashboard 1`] = `
 <div
-  className="sc-AxgMl lkoldl"
+  className="sc-AxgMl hrOXid"
 >
   <h2
     className="sc-AxhUy kqAuAC"
@@ -193,7 +193,7 @@ exports[`Storyshots Organisms|Header Dashboard 1`] = `
     Dashboard
   </h2>
   <button
-    className="sc-AxhCb jRpgrs"
+    className="sc-AxhCb grIXLI"
     height={40}
     onClick={[Function]}
     type="button"
